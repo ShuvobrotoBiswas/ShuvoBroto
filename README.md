@@ -30,35 +30,35 @@
   </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="#demo">Some Project</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://famix.netlify.app/#/">Famix</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://shuvobroto-portfolio.netlify.app/">My Portfolio</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
+    <a href="https://kuuka.co.uk/">Our Company</a>
   </p>
   <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
+    <a >Vue Js </a>
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a>Angular Js</a>
     ·
-    <a href="/docs/readme_es.md">Español</a>
+    <a>JavaScript</a>
     ·
-    <a href="/docs/readme_de.md">Deutsch</a>
+    <a>TypeScript</a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a>Python</a>
     ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    <a>Machine Learning</a>
     ·
-    <a href="/docs/readme_it.md">Italiano</a>
+    <a>Artifitial Inteligence</a>
     ·
-    <a href="/docs/readme_kr.md">한국어</a>
+    <a>C#</a>
     .
-    <a href="/docs/readme_nl.md">Nederlands</a>
+    <a>XML</a>
     .
-    <a href="/docs/readme_np.md">नेपाली</a>
+    <a>Java</a>
     .
-    <a href="/docs/readme_tr.md">Türkçe</a>
+    <a>CSS , SCSS , SASS , LESS</a>
   </p>
 </p>
